@@ -1,0 +1,1 @@
+/usr/bin/c++  -std=c++11 -Wall -rdynamic CMakeFiles/Matrix.dir/source/main.cpp.o CMakeFiles/Matrix.dir/source/matrix.cpp.o CMakeFiles/Matrix.dir/source/linreg.cpp.o -o Matrix 
